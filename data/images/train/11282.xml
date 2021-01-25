@@ -1,0 +1,15 @@
+<annotation>
+	<folder>320x320</folder>
+	<filename>11282.png</filename>
+	<path>C:\Users\Alexander\Documents\faces\New\320x320\11282.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+
+<object><name>eye</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>177</xmin><ymin>138</ymin><xmax>222</xmax><ymax>163</ymax></bndbox></object><object><name>eye</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>95</xmin><ymin>138</ymin><xmax>142</xmax><ymax>163</ymax></bndbox></object></annotation>
